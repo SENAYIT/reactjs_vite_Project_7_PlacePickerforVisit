@@ -141,13 +141,13 @@ Make sure you have Node.js installed on your computer.
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/SENAYIT/reactjs_vite_Project_7_PlacePickerforVisit.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd <project-folder>
+cd reactjs_vite_Project_7_PlacePickerforVisit
 ```
 
 Install dependencies:
@@ -185,9 +185,8 @@ Frontend Developer | Computer Engineering Graduate
 
 ### Connect With Me
 
-* GitHub: [Your GitHub Profile]
-* LinkedIn: [Your LinkedIn Profile]
-* Portfolio: [Your Portfolio]
+* GitHub: https://github.com/SENAYIT
+
 
 ---
 
